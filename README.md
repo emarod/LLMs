@@ -1,4 +1,4 @@
-# 🤖 CIC IPN Chatbot – LlamaIndex RAG Demo
+# 🤖 LlamaIndex RAG Demo
 
 This is a (toy) lightweight Retrieval-Augmented Generation (RAG) project using **LlamaIndex** to enable AI-powered question answering over custom documents.
 
